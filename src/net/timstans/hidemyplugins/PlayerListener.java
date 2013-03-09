@@ -12,7 +12,7 @@ public class PlayerListener implements Listener {
 	public void onPlayerCommandPreprocess(PlayerCommandPreprocessEvent event) {
 		Player p = event.getPlayer();
 		if(event.getMessage().toLowerCase().startsWith("/pl")) {
-			p.sendMessage(ChatColor.DARK_RED + "Acces denied! ^w^");
+			p.sendMessage(ChatColor.DARK_RED + "Access Denied");
 			event.setCancelled(true);
 		}
 	}
