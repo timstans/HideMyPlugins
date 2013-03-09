@@ -12,6 +12,7 @@ public class Main extends JavaPlugin implements Listener {
 	 public static Main instance;
 	
 	public void onEnable(){
+		
 		instance = this;
 		this.configFile = this.getConfig();
 		loadConfiguration();
