@@ -26,6 +26,7 @@ public class Main extends JavaPlugin implements Listener {
 		    this.getConfig().addDefault("Plugin.Version", "V1.2");
 		    this.getConfig().options().copyDefaults(true); 
 		    this.saveConfig();
+		    
 		    }
 
 }
