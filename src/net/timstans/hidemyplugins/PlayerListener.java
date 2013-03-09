@@ -1,6 +1,4 @@
-package main.java.net.timstans.hidemyplugins;
-
-
+package net.timstans.hidemyplugins;
 
 import org.bukkit.ChatColor;
 import org.bukkit.entity.Player;
