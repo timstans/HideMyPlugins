@@ -25,7 +25,7 @@ public class Main extends JavaPlugin implements Listener {
 		    this.getConfig().addDefault("Settings.Message", "Access Denied!");
 		    this.getConfig().addDefault("Plugin.Version", "V1.4");
 		    this.getConfig().options().copyDefaults(true); 
-		    this.saveConfig()
+		    this.saveConfig();
 		    
 		    }
 
