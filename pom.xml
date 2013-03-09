@@ -1,7 +1,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>me.timstans</groupId>
+  <groupId>net.timstans</groupId>
   <artifactId>HideMyPlugins</artifactId>
   <version>1.2</version>
   <packaging>jar</packaging>
@@ -46,7 +46,7 @@
         </includes>
         <!-- Don't add source files to target jar -->
         <excludes>
-          <exclude>me/timstans/**/*.java</exclude>
+          <exclude>net/timstans/**/*.java</exclude>
         </excludes>
       </resource>
     </resources>
