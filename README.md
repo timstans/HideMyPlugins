@@ -1,0 +1,4 @@
+HideMyPlugins
+=============
+
+Plugin Hider
