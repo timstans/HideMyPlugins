@@ -1,4 +1,4 @@
-package net.timstans.hidemyplugins;
+package main.java.net.timstans.hidemyplugins;
 
 
 
