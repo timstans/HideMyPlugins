@@ -14,16 +14,13 @@ public class PlayerListener implements Listener {
 		Player p = event.getPlayer();
 		if(event.getMessage().toLowerCase().startsWith("/pl")) {
 			if(p.hasPermission("hmp.plugins")){
-				
 			}else{
 				p.sendMessage(ChatColor.DARK_RED + plugin.configFile.getString("Settings.Message"));
 				event.setCancelled(true);
 			}
-			
 		}
 		if(event.getMessage().toLowerCase().startsWith("/?")) {
 			if(p.hasPermission("hmp.plugins")){
-				
 			}else{
 				p.sendMessage(ChatColor.DARK_RED + plugin.configFile.getString("Settings.Message"));
 				event.setCancelled(true);
