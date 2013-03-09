@@ -41,7 +41,7 @@
     <!-- Resources -->
     <resources>
 	  <resource>
-	    <directory>src/</directory>
+	    <directory>src/net/timstans/hidemyplugins/</directory>
 		<includes>
           <include>**</include>
 		</includes>
