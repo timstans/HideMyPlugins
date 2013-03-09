@@ -46,7 +46,7 @@
         </includes>
         <!-- Don't add source files to target jar -->
         <excludes>
-          <exclude>net/timstans/**/*.java</exclude>
+          <exclude>me/timstans/**/*.java</exclude>
         </excludes>
       </resource>
     </resources>
