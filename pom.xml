@@ -41,7 +41,7 @@
     <!-- Resources -->
     <resources>
 	  <resource>
-	    <directory>src/main/java/</directory>
+	    <directory>src/main/java/net/timstans/hidemyplugins/</directory>
 		<includes>
           <include>**</include>
 		</includes>
