@@ -3,7 +3,7 @@
 
   <groupId>net.timstans</groupId>
   <artifactId>HideMyPlugins</artifactId>
-  <version>1.3</version>
+  <version>1.3-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>HideMyPlugin</name>
