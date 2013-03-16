@@ -3,11 +3,10 @@
 
   <groupId>net.timstans</groupId>
   <artifactId>HideMyPlugins</artifactId>
-  <version>1.3-SNAPSHOT</version>
+  <version>1.4</version>
   <packaging>jar</packaging>
 
   <name>HideMyPlugin</name>
-  <url>http://dev.bukkit.org/server-mods/hidemyplugins/</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
